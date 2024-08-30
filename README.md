@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Scheunemann10
+- :+1:O meu [ e-maill](bianca.scheunemann@escola.pr.gov.br)
+- 👀 Eu estou enteressada em aprender novas linguagens de programação
+- 🌱 Estou rescentemante aprendendo a programar na linguagem de java script e scretch
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Scheunemann10/Scheunemann10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
